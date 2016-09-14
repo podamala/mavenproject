@@ -1,0 +1,12 @@
+package com.simplespring.dao {
+
+  implementation-package impl
+
+  final dao ContactDao :: Contact {
+    scaffold
+  }
+
+  final dao PersonDao :: Person {
+    scaffold
+  }
+}
